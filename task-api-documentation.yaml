@@ -4,7 +4,7 @@ info:
   description: API para gerenciamento de tarefas
   version: 1.0.0
 servers:
-  - url: 'http://localhost:8080' # Atualize com o URL do seu servidor
+  - url: 'https://app.swaggerhub.com/apis/JUDOSSANTOOS/task-api/1.0.0#/Task' # Atualize com o URL do seu servidor
 paths:
   /tasks:
     get:
